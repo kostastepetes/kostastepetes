@@ -3,5 +3,5 @@
 - :mortar_board: I’m currently studying Computer Engineering at University of Patras
 - :art: I’m trying to master Frontend Development and Web Design
 - 🔭 I’m currently working on an e-Commerce project
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- :computer: Codepen Portfolio: https://codepen.io/kostastepetes
 - 📫 How to reach me: https://www.linkedin.com/in/kostas-tepetes/
