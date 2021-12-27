@@ -9,8 +9,6 @@
 
 - :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
-- 📫 How to reach me: **ktepetes9@gmail.com**
-
 - ⚡ What I like to do: **I like movies, sports and coding mini personal projects**
 
 <h3 align="center">Connect with me:</h3>
