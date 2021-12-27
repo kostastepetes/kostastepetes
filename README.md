@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes <img height="40" src="https://emoji.gg/assets/emoji/2576-tick.gif"></h1>
 <h3 align="center">Passionate about being creative on the internet and building projects in the Web.<br>Trained in HTML5, CSS3, Bootstrap, JavaScript and React.JS</h3>
 
-- :mortar_board: I’m currently studying Computer Engineering at University of Patras
+- :mortar_board: I’m currently studying **Computer Engineering at University of Patras**
 
 - 🔭 I’m currently working on **Salesforce Development**
 
-- :art: I’m trying to master Frontend Development
+- :art: I’m trying to master **Frontend Development**
 
-- :computer: Codepen Portfolio: https://codepen.io/kostastepetes
+- :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
 - 📫 How to reach me: **ktepetes9@gmail.com**
 
