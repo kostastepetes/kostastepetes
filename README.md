@@ -3,7 +3,7 @@
 
 - :mortar_board: I’m currently studying **Computer Science & Engineering at University of Patras**
 
-- 🔭 I’m currently working on **Salesforce Development**
+- 🔭 I’m currently working on **SFMC Web Integration**
 
 - :art: I’m trying to master **Frontend Development**
 
