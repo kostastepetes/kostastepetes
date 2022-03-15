@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Junior Developer @ Deloitte Greece**
 
-- :art: I’m trying to master **Frontend Development**
+- :art: I’m trying to master **Frontend Web Development**
 
 - :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
