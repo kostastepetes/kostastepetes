@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes <img height="40" src="https://emoji.gg/assets/emoji/2576-tick.gif"></h1>
-<h3 align="center">Passionate about being creative on the internet and building projects in the Web.<br>Trained in HTML5, CSS3, Bootstrap, JavaScript and React.JS</h3>
+<h3 align="center">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer.<br>Trained in HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, TypeScript and React.JS</h3>
 
 - :mortar_board: I’m currently studying **Computer Science & Engineering at University of Patras**
 
@@ -31,9 +31,15 @@
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
   </a>
