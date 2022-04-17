@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes <img height="40" src="https://emoji.gg/assets/emoji/2576-tick.gif"></h1>
-<h3 align="center">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer.<br>Trained in HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, TypeScript and React.JS</h3>
+<h3 align="left">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for design.<br>Skilled in HTML5, CSS3, SCSS/SASS, Bootstrap, Material UI, Tailwind CSS, JavaScript, TypeScript and React.JS</h3>
 
-- :mortar_board: I’m currently studying **Computer Science & Engineering at University of Patras**
+- :mortar_board: I’m currently studying **Computer Science & Engineering @ University of Patras**
 
 - 🔭 I’m currently working as a **Junior Developer @ Deloitte Greece**
 
@@ -28,11 +28,17 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
+  <a href="https://sass-lang.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a>
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+  </a>
+  <a href="https://mui.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
