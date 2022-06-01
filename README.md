@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes <img height="40" src="https://emoji.gg/assets/emoji/2576-tick.gif"></h1>
-<h3 align="left">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design. Skilled in HTML5, CSS3, SCSS/SASS, Bootstrap, Material UI, Tailwind CSS, JavaScript, TypeScript and React.JS</h3>
+<h3 align="left">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS), JavaScript/TypeScript (basic JQuery), React.js and Vue.js</h3>
 
 - :mortar_board: I’m currently studying **Computer Science & Engineering @ University of Patras**
 
@@ -48,6 +48,9 @@
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
+  </a>
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
