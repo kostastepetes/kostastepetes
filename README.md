@@ -3,13 +3,13 @@
 
 - :mortar_board: I’m currently studying **Computer Science & Engineering @ University of Patras**
 
-- 🔭 I’m currently working as a **Junior Developer @ Deloitte Greece**
+- 🔭 I’m currently working as a **Junior Web Developer @ Deloitte Greece**
 
-- :art: I’m all about **Frontend Web Development**
+- :art: I’m all about **Frontend Web Development & UI Design**
 
 - :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
-- ⚡ What I like to do: **I like movies, sports and coding mini personal projects**
+- ⚡ What I like to do: **I like movies, TV shows, sports and coding mini personal projects**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
