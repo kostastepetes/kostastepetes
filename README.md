@@ -9,7 +9,7 @@
 
 - :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
-- ⚡ What I like to do: **I like movies, TV shows, sports and coding mini personal projects**
+- ⚡ What I like to do: **I like movies, TV shows, sports, coding mini personal projects and losing on chess more often than I should be**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
