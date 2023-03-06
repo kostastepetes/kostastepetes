@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes <img height="40" src="https://emoji.gg/assets/emoji/2576-tick.gif"></h1>
-<h3 align="left">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS), JavaScript, React.js and Vue.js</h3>
+<h3 align="left">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, MaterialUI), JavaScript, Vue.js and React.js</h3>
 
 - :mortar_board: I’m currently studying **Computer Science & Engineering @ University of Patras**
 
