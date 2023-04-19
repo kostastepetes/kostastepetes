@@ -59,3 +59,9 @@
   </a>
 </p>
 
+<div align="center">
+  
+![Kostas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostastepetes&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostastepetes&layout=compact)](https://github.com/kostastepetes/github-readme-stats)
+</div>
