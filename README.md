@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working as a **Junior Web Developer @ Deloitte Greece**
 
-- :art: I’m all about **Frontend Web Development & UI/UX Design**
+- :art: I’m all about **Frontend Web Development & Visual Design**
 
-- 🛠 I'm currently developing my own CSS Library called ✨**SQKY**✨
+- 🛠 I'm currently developing my own CSS Library called <a href="https://github.com/kostastepetes/sqky-css-library" target="_blank"> ✨**SQKY**✨ </a> and trying to achieve a decent ranking at <a href="https://cssbattle.dev/player/kostastepetes" target="_blank"> ⚔**cssbattle.dev**⚔ </a>
 
 - :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
 - ☁ 3x **Marketing Cloud** Certified  (Personalization, CDP, Email Specialist)
 
-- ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/designing and struggling on chess...**
+- ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on chess...**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
