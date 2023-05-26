@@ -7,7 +7,9 @@
 
 - :art: I’m all about **Frontend Web Development & Visual Design**
 
-- 🛠 I'm currently developing my own CSS Library called <a href="https://github.com/kostastepetes/sqky-css-library" target="_blank"> ✨**SQKY**✨ </a> and trying to achieve a decent ranking at <a href="https://cssbattle.dev/player/kostastepetes" target="_blank"> ⚔**cssbattle.dev**⚔ </a>
+- 🛠 I've developed my own CSS Library called <a href="https://github.com/kostastepetes/sqky-css-library" target="_blank"> ✨**SQKY**✨ </a>
+
+- 🚀 Currently trying to achieve a decent ranking at <a href="https://cssbattle.dev/player/kostastepetes" target="_blank"> ⚔**cssbattle.dev**⚔ </a> 
 
 - :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
