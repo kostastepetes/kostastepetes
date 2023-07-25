@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes <img height="40" src="https://emoji.gg/assets/emoji/2576-tick.gif"></h1>
 <h3 align="left">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, MaterialUI), JavaScript, Vue.js and React.js. Interested into Web Design and Visual Design.</h3>
 
-- :mortar_board: I've graduated and earned a BSc/MSc at **Computer Science & Engineering @ University of Patras**
+- :mortar_board: BSc/MSc **Computer Science & Engineering @ University of Patras**
 
 - 🔭 I’m currently working as a **Junior Web Developer @ Deloitte Greece**
 
