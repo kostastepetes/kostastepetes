@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes <img height="40" src="https://emoji.gg/assets/emoji/2576-tick.gif"></h1>
-<h3 align="left">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, MaterialUI), JavaScript, Vue.js and React.js. Interested into Web Design and Visual Design.</h3>
+<h3 align="left">Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, Bulma, MaterialUI), JavaScript, Vue.js and React.js. Interested into Web Design and Visual Design.</h3>
 
 - :mortar_board: BSc/MSc **Computer Science & Engineering @ University of Patras**
 
@@ -13,7 +13,7 @@
 
 - :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
-- ☁ 3x **Marketing Cloud** Certified  (Personalization, CDP, Email Specialist)
+- ☁ 4x **Marketing Cloud** Certified  (Personalization, CDP, Email Specialist, Advanced Cross-Channel)
 
 - ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on chess...**
 
@@ -42,6 +42,9 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+  </a>
+    <a href="https://bulma.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/> 
   </a>
   <a href="https://mui.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
