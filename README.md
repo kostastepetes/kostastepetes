@@ -17,7 +17,7 @@
 
 - ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on chess...**
 
-<h4 align="center">🚀 Personal Website: <a href="https://kostastepetes.netlify.app/">Here</a> 🚀</h4>
+<h4 align="center">🚀 Personal Website: <a href="https://kostastepetes.netlify.app/" target="_blank">Here</a> 🚀</h4>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
