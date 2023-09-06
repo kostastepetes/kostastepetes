@@ -13,7 +13,7 @@
 
 - :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
-- ☁ 4x **Marketing Cloud** Certified  (Personalization, Data Cloud, Email Specialist, Advanced Cross-Channel)
+- ☁ 5x **Marketing Cloud** Certified  (Personalization, Data Cloud, Email Specialist, Advanced Cross-Channel, Admin)
 
 - ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on chess...**
 
