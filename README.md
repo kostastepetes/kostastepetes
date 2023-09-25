@@ -13,7 +13,7 @@ Passionate about being creative on the internet and building projects in the Web
 
 - :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
-- ☁ 5x **Marketing Cloud** Certified  (Personalization, Data Cloud, Email Specialist, Advanced Cross-Channel, Admin)
+- ☁ 5x **Marketing Cloud** Certified
 
 - ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on chess...**
 
