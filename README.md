@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes </h1>
-Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, Bulma, MaterialUI), JavaScript, Vue.js, Nuxt.js, React.js & GSAP. Interested into Web Design and Visual Design.
+Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design and Design Systems. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, Bulma, MaterialUI), JavaScript, Vue.js, Nuxt.js, React.js & GSAP.
 
 - :mortar_board: BSc/MSc **Computer Science & Engineering @ University of Patras**
 
@@ -8,10 +8,6 @@ Passionate about being creative on the internet and building projects in the Web
 - :art: I’m all about **Frontend Web Development & Visual Design**
 
 - 🛠 I've developed my own CSS Library called <a href="https://github.com/kostastepetes/sqky-css-library" target="_blank"> ✨**SQKY**✨ </a>
-
-- 🚀 Currently trying to achieve a decent ranking at <a href="https://cssbattle.dev/player/kostastepetes" target="_blank"> ⚔**cssbattle.dev**⚔ </a> 
-
-- :computer: Codepen Portfolio: **https://codepen.io/kostastepetes**
 
 - ☁ 5x **Marketing Cloud** Certified
 
@@ -62,6 +58,15 @@ Passionate about being creative on the internet and building projects in the Web
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
+  </a>
+  <a href="https://gsap.com/" target="_blank"> 
+    <img src="https://tse2.mm.bing.net/th?id=OIP.W3GxPQjCTXCbMxPqmoiSdwAAAA&pid=Api" alt="GSAP" width="40" height="40"/> 
+  </a>
+  <a href="https://supabase.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> 
+  </a>
+  <a href="https://salesforce.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
