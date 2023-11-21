@@ -74,4 +74,7 @@ Passionate about being creative on the internet and building projects in the Web
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
+  <a href="https://figma.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
+  </a>
 </p>
