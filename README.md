@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes </h1>
-Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design and Design Systems. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, Bulma, MaterialUI), JavaScript, Vue.js, Nuxt.js, React.js & GSAP.
+Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design and Design Systems. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, Bulma, MaterialUI), JavaScript, Vue.js, Nuxt.js & GSAP.
 
 - :mortar_board: BSc/MSc **Computer Science & Engineering @ University of Patras**
 
@@ -7,7 +7,7 @@ Passionate about being creative on the internet and building projects in the Web
 
 - :art: I’m all about **Frontend Web Development & Visual Design**
 
-- 🛠 I've developed my own CSS Library called <a href="https://github.com/kostastepetes/sqky-css-library" target="_blank"> ✨**SQKY**✨ </a>
+- 🛠 I've developed my own CSS Library called <a href="https://github.com/kostastepetes/sqky-css-library" target="_blank"> ✨**SQKY**✨ </a> and my own AJAX Library called <a href="https://github.com/kostastepetes/grab-js" target="_blank"> ✨**grab.js**✨
 
 - ☁ 6x **Marketing Cloud** Certified
 
@@ -36,10 +36,10 @@ Passionate about being creative on the internet and building projects in the Web
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
   </a>
     <a href="https://bulma.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/> 
@@ -55,9 +55,6 @@ Passionate about being creative on the internet and building projects in the Web
   </a>
   <a href="https://nuxt.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
   </a>
   <a href="https://gsap.com/" target="_blank"> 
     <img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" alt="GSAP" width="40" height="40"/> 
