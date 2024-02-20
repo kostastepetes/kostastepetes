@@ -44,9 +44,6 @@ Passionate about being creative on the internet and building projects in the Web
     <a href="https://bulma.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/> 
   </a>
-  <a href="https://mui.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -55,6 +52,9 @@ Passionate about being creative on the internet and building projects in the Web
   </a>
   <a href="https://nuxt.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="40" height="40"/> 
+  </a>
+  <a href="https://pinia.vuejs.org/" target="_blank"> 
+    <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> 
   </a>
   <a href="https://gsap.com/" target="_blank"> 
     <img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" alt="GSAP" width="40" height="40"/> 
