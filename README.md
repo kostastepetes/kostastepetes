@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes </h1>
-Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design and Design Systems. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, Bulma, MaterialUI), JavaScript, Vue.js, Nuxt.js & GSAP.
+Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design and Design Systems. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, Bulma), JavaScript, Vue.js, Nuxt.js & GSAP.
 
 - :mortar_board: BSc/MSc **Computer Science & Engineering @ University of Patras**
 
