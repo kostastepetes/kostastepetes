@@ -11,7 +11,7 @@ Passionate about being creative on the internet and building projects in the Web
 
 - ☁ 6x **Marketing Cloud** Certified
 
-- ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on chess...**
+- ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on board games...**
 
 - 🚀 Personal Website: <a href="https://kostastepetes.netlify.app/" target="_blank">Here</a> 🚀
 
