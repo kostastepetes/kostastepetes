@@ -57,7 +57,7 @@ Passionate about being creative on the internet and building projects in the Web
     <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> 
   </a>
   <a href="https://gsap.com/" target="_blank"> 
-    <img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" alt="GSAP" width="40" height="40"/> 
+    <img src="https://www.gsap.com/archived-docs/images/_external/375d96b130633a572026b2e5769fb7c0.svg" alt="GSAP" width="40" height="40"/> 
   </a>
   <a href="https://supabase.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> 
