@@ -13,7 +13,7 @@ Passionate about being creative on the internet and building projects in the Web
 
 - ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on board games...**
 
-- 🚀 Personal Website: <a href="https://kostastepetes.netlify.app/" target="_blank">Here</a> 🚀
+- 🚀 Personal Website: <a href="https://kostastepetes.com/" target="_blank">Here</a> 🚀
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
