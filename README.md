@@ -9,7 +9,7 @@ Passionate about being creative on the internet and building projects in the Web
 
 - 🛠 I've developed my own CSS Library called <a href="https://github.com/kostastepetes/sqky-css-library" target="_blank"> ✨**SQKY**✨ </a> and my own AJAX Library called <a href="https://github.com/kostastepetes/grab-js" target="_blank"> ✨**grab.js**✨
 
-- ☁ 6x **Marketing Cloud** Certified
+- ☁ 7x **Marketing Cloud** Certified
 
 - ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on board games...**
 
