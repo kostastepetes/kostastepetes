@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kostas Tepetes </h1>
-Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design and Design Systems. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, Bulma), JavaScript, Vue.js, Nuxt.js & GSAP.
+Passionate about being creative on the internet and building projects in the Web as a Frontend Developer, with an eye for UI/UX Design and Design Systems. Skilled in HTML5, CSS3 (SCSS/SASS, Bootstrap, Tailwind CSS, Bulma), JavaScript, Vue.js, Nuxt.js, Astro & GSAP.
 
 - :mortar_board: BSc/MSc **Computer Science & Engineering @ University of Patras**
 
@@ -55,6 +55,9 @@ Passionate about being creative on the internet and building projects in the Web
   </a>
   <a href="https://pinia.vuejs.org/" target="_blank"> 
     <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> 
+  </a>
+  <a href="https://astro.build/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/> 
   </a>
   <a href="https://gsap.com/" target="_blank"> 
     <img src="https://www.gsap.com/archived-docs/images/_external/375d96b130633a572026b2e5769fb7c0.svg" alt="GSAP" width="40" height="40"/> 
