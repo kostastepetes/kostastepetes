@@ -3,7 +3,7 @@ Passionate about being creative on the internet and building projects in the Web
 
 - :mortar_board: BSc/MSc **Computer Science & Engineering @ University of Patras**
 
-- 🔭 I’m currently working as a **Junior Web Developer @ Deloitte Greece**
+- 🔭 I’m currently working as a **Web Developer | Consultant @ Deloitte Greece**
 
 - :art: I’m all about **Frontend Web Development & Visual Design**
 
