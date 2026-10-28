@@ -13,7 +13,7 @@ Web Developer with a BSc/MSc in Computer Engineering. Passionate about being cre
 
 - ⚡ What I like to do: **I like movies/TV shows, sports, coding mini personal projects, sketching/design and struggling on board games...**
 
-- 🚀 Personal Website: <a href="https://kostastepetes.netlify.com/" target="_blank">Here</a> 🚀
+- 🚀 Personal Website: <a href="https://kostastepetes.com/" target="_blank">Here</a> 🚀
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
